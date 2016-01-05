@@ -1,4 +1,4 @@
-!(Epicodus Logo)[http://static1.squarespace.com/static/5524448ee4b0d6f6b83ab9e2/t/55244514e4b08ad5c0f51a01/1451522396623/?format=1500w]
+![Epicodus logo](http://static1.squarespace.com/static/5524448ee4b0d6f6b83ab9e2/t/55244514e4b08ad5c0f51a01/1451522396623/?format=1500w)
 
 _400 SW 6th Ave #800, Portland, OR 97204_
 
@@ -9,8 +9,6 @@ Epicodus's mission is to help people learn the skills they need to get great job
 Our president, Michael Kaiser-Nyman, founded Epicodus in 2012. After becoming frustrated with how difficult it was to hire programmers for his software company, he talked with other employers and discovered he wasn't alone. At the same time, he knew many people who were struggling to find work. He realized that if there were a school that taught practical software development skills, people could get great jobs and companies could hire the staff they need.
 
 Epicodus's first class started in early 2013 with just Michael and 8 students. Since then, we've grown to more than a dozen staff and hundreds of students and alumni.
-
-BLAH BLAH BLAH
 
 ### Employees
 - Audrey Scrugham, Career Services
