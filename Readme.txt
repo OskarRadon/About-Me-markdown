@@ -1,5 +1,5 @@
-# _{Epicodus AboutUs}_
+# Epicodus AboutUs Page
 
-#### _{Description of Epicodus}, {1/4/16}_
+#### A description of Epicodus 1/4/16
 
-#### By _**{Oskar Radon and Trevor Elvey}**_
+#### By Oskar Radon and Trevor Elvey
